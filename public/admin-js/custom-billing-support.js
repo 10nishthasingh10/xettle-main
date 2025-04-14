@@ -210,7 +210,7 @@ function datatableSetup(urls, datas, onDraw = function () { }, ele = "#datatable
         ordering: true,
         "searching": true,
         buttons: [
-            'excel'
+           
         ],
         order: [],
         columnDefs: [{

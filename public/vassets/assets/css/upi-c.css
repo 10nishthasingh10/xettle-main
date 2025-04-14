@@ -1,0 +1,58 @@
+table,
+th,
+td {
+  border: 0px !important;
+}
+
+tr {
+  transition: all 0.5s ease;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  --bs-table-accent-bg: #fff !important;
+}
+
+.bb-fw {
+  border-bottom: none !important;
+  white-space: nowrap;
+  font-weight: bold !important;
+}
+
+.w-texttttt {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.l-texttttt {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 510;
+}
+
+.media-body {
+  padding: 15px 0;
+}
+
+.crrrr {
+  text-align: center;
+  width: 41px;
+  padding: 2px;
+  background-color: green;
+  border-radius: 100px;
+  color: white;
+}
+
+.drrrr {
+  text-align: center;
+  width: 41px;
+  padding: 2px;
+  background-color: red;
+  border-radius: 100px;
+  color: white;
+}
+
+tr {
+  border-bottom: 2px solid #f1f1f1 !important;
+}

@@ -1,0 +1,108 @@
+/* .card-profile-headerrr {
+  background-image: url("{{asset('vassets/assets/images/user-profile/bg-profile.jpg')}}");
+  background-size: cover;
+  background-position: center center;
+  display: block;
+  height: 420px;
+  padding: 30px;
+  display: flex !important;
+} */
+
+.bg-img-coverxx {
+  display: none;
+}
+
+/* .profile-img-wrrapxx {
+  background-image: url("{{asset('vassets/assets/images/user-profile/bg-profile.jpg')}}");
+  background-size: cover;
+  background-position: center center;
+  display: block;
+} */
+
+.userpro-boxxxx {
+  background-color: #fff;
+  padding: 30px;
+  max-width: 380px;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.img-wrraperxxx {
+  position: relative;
+  width: fit-content;
+  margin: auto;
+}
+
+.avatarxxx {
+  width: 100px;
+  height: 100px;
+  max-width: 155px;
+  max-height: 155px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  border: 7px solid rgba(36, 105, 92, 0.08);
+  margin-bottom: 15px;
+}
+
+.icon-wrapperrrr {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  background-color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  margin: 0 auto;
+  font-size: 17px;
+  box-shadow: 0 0 6px 3px #4466f21a;
+}
+
+.user-list-socialxxx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 20px;
+  gap: 5px;
+}
+
+.user-list-socialxxx li a {
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #24695c14;
+}
+
+ul.follow-list li {
+  display: inline-block;
+  padding-top: 15px;
+  width: 120px;
+}
+
+.follow-numxxx {
+  font-size: 18px;
+  color: #2b2b2b;
+  font-family: Rubik, sans-serif, sans-serif;
+  font-weight: 600;
+}
+
+.sep-div {
+  position: absolute;
+  width: 1px !important;
+  height: 80px;
+  background-color: #e6edef;
+}

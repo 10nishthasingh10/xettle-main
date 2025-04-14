@@ -1,0 +1,11 @@
+.login-card {
+  background-color: transparent;
+}
+
+div.col-xl-7.p-0.b-center.bg-size {
+  background-color: transparent;
+  background-size: 85% !important;
+  background-position: center center !important;
+  display: block !important;
+  background-repeat: no-repeat !important;
+}

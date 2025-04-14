@@ -232,6 +232,7 @@ $(function () {
                         $('#beneficiary_name').val(res.data.beneficiary_name);
                         $('#account_number').val(res.data.account_number);
                         $('#ifsc').val(res.data.ifsc);
+                        $('#bank').val(res.data.bank);
 
                         $('#updateBankAccountModal').modal('show');
 

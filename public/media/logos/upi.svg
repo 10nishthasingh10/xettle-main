@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="188" viewBox="0 0 272 188">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc061;
+      }
+
+      .cls-2 {
+        fill: #68606f;
+      }
+
+      .cls-3 {
+        fill: #098041;
+      }
+
+      .cls-4 {
+        fill: #e97626;
+      }
+    </style>
+  </defs>
+  <g id="Group_952" data-name="Group 952" transform="translate(-1178 -1123)">
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-1" width="272" height="188" transform="translate(1178 1123)"/>
+    <g id="upi_1_" data-name="upi(1)" transform="translate(1129.877 1107.7)">
+      <path id="Path_8766" data-name="Path 8766" class="cls-2" d="M248.569,132.737h-9.453L252.251,85.3H261.7Zm-4.909-45.951a3.476,3.476,0,0,0-3.036-1.357H188.686l-2.562,9.3h47.243l-2.756,9.927H192.82v-.022h-9.453l-7.838,28.316h9.453l5.254-18.992h42.484a5.989,5.989,0,0,0,3.747-1.357,6.308,6.308,0,0,0,2.3-3.359l5.254-18.992A3.853,3.853,0,0,0,243.659,86.786Zm-73.643,42.98a4.354,4.354,0,0,1-4.177,3.187H117.11a3.406,3.406,0,0,1-2.972-1.357,3.729,3.729,0,0,1-.409-3.359l11.886-42.807h9.453l-10.616,38.242h37.812l10.616-38.242h9.453Z" transform="translate(-17.396)"/>
+      <path id="Path_8767" data-name="Path 8767" class="cls-3" d="M829.478,85.7l11.951,23.772L816.3,133.245Z" transform="translate(-568.848 -0.314)"/>
+      <path id="Path_8768" data-name="Path 8768" class="cls-4" d="M790.4,85.7l11.951,23.772L777.2,133.245Z" transform="translate(-538.168 -0.314)"/>
+    </g>
+  </g>
+</svg>

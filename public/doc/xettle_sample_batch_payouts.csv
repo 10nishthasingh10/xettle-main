@@ -1,0 +1,7 @@
+Contact First Name,Contact Last Name,Contact Email,Contact Phone,Contact Type,Account Type,Account Number,Account ifsc,Account vpa,Payout Mode,Payout Amount,Payout Reference Id,Payout Purpose,Payout Narration,Note 1,Note 2
+First Name,Last Name,example@example.com,9111111111,vendor,bank_account,35200000000000,SBIN0008752,,IMPS,1,payout_1ddf446d4012,SALARY_DISBURSEMENT,Test TRN,,
+First Name,Last Name,example@example.com,9111111111,employee,bank_account,9190000000000,PYTM0123456,,RTGS,1,payout_03ddf8930023,REIMBURSEMENT,Test TRN,,
+First Name,Last Name,example@example.com,9111111111,customer,bank_account,35200000000000,SBIN0008752,,NEFT,1,payout_0508ddd93032,BONUS,Test TRN,,
+First Name,Last Name,example@example.com,9111111111,self,bank_account,35200000000000,SBIN0008752,,NEFT,1,payout_0077d3d931,INCENTIVE,Test TRN,,
+First Name,Last Name,example@example.com,9111111111,employee,bank_account,35200000000000,SBIN0008752,,NEFT,3,payout_031ddss8043,OTHERS,Test TRN,,
+First Name,Last Name,example@example.com,9111111111,employee,bank_account,35200000000000,SBIN0008752,,NEFT,2,payout_000ddd68432,OTHERS,Test TRN,,

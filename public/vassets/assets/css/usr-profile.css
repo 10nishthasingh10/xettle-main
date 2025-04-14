@@ -1,0 +1,85 @@
+.element-box .os-tabs-controls .nav,
+.invoice-w .os-tabs-controls .nav,
+.big-error-w .os-tabs-controls .nav {
+  padding-left: 0rem !important;
+  padding-right: 0rem !important;
+  display: flex;
+}
+
+.body {
+  background: var(--backgrounddd);
+}
+
+.nav-tabs .nav-item {
+  margin-bottom: 0 !important;
+  margin-right: 0 !important;
+  font-size: 1rem !important;
+}
+
+.dropdownxx {
+  display: none;
+}
+
+.nav.bigger.nav-tabs .nav-link {
+  margin-right: 1rem !important;
+}
+
+@media only screen and (max-width: 920px) {
+  .element-box .os-tabs-controls .nav,
+  .invoice-w .os-tabs-controls .nav,
+  .big-error-w .os-tabs-controls .nav,
+  ul.nav.nav-tabs.bigger,
+  .card.llxx {
+    display: none !important;
+  }
+
+  .dropdownxx {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 995px) {
+  .nav-tabs .nav-item {
+    font-size: 0.9rem !important;
+  }
+}
+
+@media only screen and (max-width: 1085px) {
+  .sep-div {
+    display: none !important;
+  }
+}
+
+.profile-detail-top {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-detail-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+ul.nav.nav-tabs.bigger {
+  flex-direction: column;
+  gap: 30px;
+}
+
+a#personal-tab::after,
+a#business-tab::after,
+a#kyc-tab::after,
+a#bank-tab::after,
+a#integrations-tab::after {
+  left: 0px !important;
+  width: 150px;
+  -webkit-transform: translateX(0%) !important;
+  transform: translateX(0%) !important;
+}
+
+a {
+  border-width: 0px;
+}

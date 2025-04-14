@@ -1,0 +1,169 @@
+body {
+  background-color: #060913;
+  background-size: 600% 600%;
+
+  color: #e3e7f4;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  -webkit-animation: bg_anim 30s ease infinite;
+  -moz-animation: bg_anim 30s ease infinite;
+  -o-animation: bg_anim 30s ease infinite;
+  animation: bg_anim 30s ease infinite;
+}
+
+@-webkit-keyframes bg_anim {
+  0% {
+    background-position: 0% 92%;
+  }
+  50% {
+    background-position: 100% 9%;
+  }
+  100% {
+    background-position: 0% 92%;
+  }
+}
+@-moz-keyframes bg_anim {
+  0% {
+    background-position: 0% 92%;
+  }
+  50% {
+    background-position: 100% 9%;
+  }
+  100% {
+    background-position: 0% 92%;
+  }
+}
+@-o-keyframes bg_anim {
+  0% {
+    background-position: 0% 92%;
+  }
+  50% {
+    background-position: 100% 9%;
+  }
+  100% {
+    background-position: 0% 92%;
+  }
+}
+@keyframes bg_anim {
+  0% {
+    background-position: 0% 92%;
+  }
+  50% {
+    background-position: 100% 9%;
+  }
+  100% {
+    background-position: 0% 92%;
+  }
+}
+
+div.col-xl-7.x {
+  background-color: transparent;
+  background-size: 85% !important;
+  background-position: center center !important;
+  display: block !important;
+  background-repeat: no-repeat !important;
+}
+
+div.login-card.xx {
+  background-color: transparent;
+}
+
+form.theme-form.login-form {
+  background-color: #071232;
+}
+
+.login-form .form-group .input-group-text {
+  color: #e3e7f4;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.theme-form .form-group input[type="text"],
+.theme-form .form-group input[type="email"],
+.theme-form .form-group input[type="search"],
+.theme-form .form-group input[type="password"],
+.theme-form .form-group input[type="number"],
+.theme-form .form-group input[type="tel"],
+.theme-form .form-group input[type="date"],
+.theme-form .form-group input[type="datetime-local"],
+.theme-form .form-group input[type="time"],
+.theme-form .form-group input[type="datetime-local"],
+.theme-form .form-group input[type="month"],
+.theme-form .form-group input[type="week"],
+.theme-form .form-group input[type="url"],
+.theme-form .form-group input[type="file"],
+.theme-form .form-group select {
+  background-color: #061327;
+  border-color: #0a1b36;
+  font-size: 14px;
+  color: #e3e7f4;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: transparent;
+  border-color: #0d6efd;
+}
+
+button.btn-block {
+  color: #e3e7f4;
+  background-color: transparent;
+  border-color: #0d6efd;
+}
+
+button.btn-block:hover {
+  color: #e3e7f4;
+  background-color: #0b5ed7;
+}
+
+a.ms-2.xxx {
+  transition: all ease 0.3s;
+}
+
+a.ms-2.xxx:hover {
+  text-decoration: underline;
+  color: #e3e7f4;
+}
+
+a {
+  transition: all ease 0.3s;
+}
+
+a:hover {
+  color: #e3e7f4;
+}
+
+.show-hide span {
+  color: #e3e7f4;
+}
+
+.login-form h4 {
+  color: #e3e7f4;
+}
+
+.help-block {
+  color: red;
+}
+
+.form-group.otp_btn {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

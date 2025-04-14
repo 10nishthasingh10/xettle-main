@@ -1,0 +1,40 @@
+table,
+th,
+td {
+  border: 0px !important;
+}
+
+th {
+  font-weight: bold !important;
+}
+
+tr {
+  border-top: 0px !important;
+  border-bottom: 2px solid #f1f1f1 !important;
+  transition: all 0.5s ease;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  --bs-table-accent-bg: #fff !important;
+}
+
+.bb-fw {
+  border-bottom: none !important;
+  white-space: nowrap;
+  font-weight: bold !important;
+}
+
+.w-texttttt {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.media-body {
+  padding: 15px 0;
+}
+
+#datatable_paginate {
+  border-width: 0px !important;
+}

@@ -1,0 +1,28 @@
+:root {
+  --primaryyy: #1276e9;
+  --primary-liteee: #1276e96b;
+  --secondaryyy: #0e0301;
+  --accenttt: #3ee091;
+  --backgrounddd: #f5f7fb;
+  --texttt: #0b101d;
+  --text-liteee: #999;
+  --card-bggg: #fff;
+  --w-bggg: #fff;
+  --borderrr: #e6edef;
+}
+.card {
+  border: 1px solid var(--borderrr) !important;
+}
+
+.card,
+.card .card-header {
+  background-color: var(--card-bggg) !important;
+}
+
+.active {
+  background-color: var(--card-bggg) !important;
+}
+
+.page-wrapper .page-main-header {
+  background-color: var(--w-bggg) !important;
+}
