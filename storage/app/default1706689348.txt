@@ -1,0 +1,18 @@
+Array
+(
+    [event] => DynamicUPIQR
+    [data] => Array
+        (
+            [TxnStatus] => SUCCESS
+            [PayerAmount] => 1
+            [PayerName] => payer@paytm
+            [transactioninitdate] => 30-06-2023 16:50:36
+            [WalletTransactionId] => 279387
+            [PayerMobile] => 9867248591
+            [BankRRN] => 351220619755
+            [PayerVA] => payer@paytm
+            [TxnCompletionDate] => 30-06-2023 16:50:36
+            [ApiUserReferenceId] => TXN704393
+        )
+
+)

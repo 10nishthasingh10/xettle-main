@@ -1,0 +1,14 @@
+Array
+(
+    [event] => Payout
+    [data] => Array
+        (
+            [RRN] => 98738567
+            [Status] => SUCCESS
+            [StatusCode] => 200
+            [Message] => SUCCESS
+            [PinwalletTransactionId] => HUNT57388145527420383259
+            [APITransactionId] => E09od9404419
+        )
+
+)

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<div class = "row">
+    <div class="abc">
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+    </div>
+</div>
+<script>
+    // Get all the div elements inside the "abc" class
+    var divs = document.querySelectorAll('.abc div');
+    var divs = document.querySelectorAll('.abc div');
+
+    // Loop through each div element and add the appropriate class based on the content
+    divs.forEach(function (div) {
+        var number = parseInt(div.textContent);
+        if (number % 2 === 0) {
+            div.classList.add('green');
+        } else {
+            div.classList.add('red');
+        }
+    });
+
+    divs.forEach(function (div) {
+        var number = parseInt(div.textContent);
+        if(number % 2 === 0) {
+            div.classList.add('green');
+        } else{
+            div.classList.add('red');
+        }
+    });
+</script>
